@@ -1,0 +1,23 @@
+Combine 1 rules - Train error avg: 0.22667
+Combine 1 rules - Test error avg: 0.29333
+
+Combine 2 rules - Train error avg: 0.22667
+Combine 2 rules - Test error avg: 0.24000
+
+Combine 3 rules - Train error avg: 0.00000
+Combine 3 rules - Test error avg: 0.04000
+
+Combine 4 rules - Train error avg: 0.01333
+Combine 4 rules - Test error avg: 0.00000
+
+Combine 5 rules - Train error avg: 0.00000
+Combine 5 rules - Test error avg: 0.04000
+
+Combine 6 rules - Train error avg: 0.00000
+Combine 6 rules - Test error avg: 0.04000
+
+Combine 7 rules - Train error avg: 0.00000
+Combine 7 rules - Test error avg: 0.04000
+
+Combine 8 rules - Train error avg: 0.00000
+Combine 8 rules - Test error avg: 0.02667
